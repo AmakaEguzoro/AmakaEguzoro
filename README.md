@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amakaeguzoro" alt="amakaeguzoro" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Engineering, Algorithm and Data Structures**
+- 🌱 I’m currently learning **Backend development with NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://chimamaka-portfolio.vercel.app/](https://chimamaka-portfolio.vercel.app/)
 
