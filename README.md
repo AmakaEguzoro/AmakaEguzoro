@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eguzoro Chimamaka</h1>
-<h3 align="center">A Frontend Developer with 3+ years experience currently in Lagos Nigeria. I'm presently studying Systems Engineering at the University Of Lagos.</h3>
+<h3 align="center">I'm a Systems Engineering graduate with a passion for crafting engaging and robust digital experiences. With a solid foundation in frontend development accumulated over 3 years, I'm now on an exciting journey towards becoming a versatile full-stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amakaeguzoro&label=Profile%20views&color=0e75b6&style=flat" alt="amakaeguzoro" /> </p>
 
